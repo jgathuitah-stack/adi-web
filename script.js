@@ -77,7 +77,7 @@
 (function initCopyright() {
   const el = document.getElementById('copyright');
   if (!el) return;
-  el.textContent = '© ' + new Date().getFullYear() + ' Career Disrupters. All rights reserved. — careerdisrupters.co';
+  el.textContent = '© ' + new Date().getFullYear() + ' Career Disrupters. All rights reserved. — careerdisrupters.com';
 })();
 
 /* ---------- Smooth scroll for anchor links ---------- */
