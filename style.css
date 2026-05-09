@@ -635,7 +635,7 @@ ul { list-style: none; }
 }
 .footer-inner {}
 .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 48px; margin-bottom: 48px; }
-.footer-logo { font-family: var(--font-head); font-weight: 800; font-size: 1.2rem; margin-bottom: 12px; }
+.footer-logo { font-family:  inherit; font-weight: 800; font-size: 1.2rem; margin-bottom: 12px; }
 .footer-dot  { font-size: 0.75rem; color: var(--muted); font-family: var(--font-body); }
 .footer-desc { font-size: 0.85rem; color: var(--muted); line-height: 1.65; max-width: 280px; }
 .footer-socials { display: flex; gap: 12px; margin-top: 20px; }
